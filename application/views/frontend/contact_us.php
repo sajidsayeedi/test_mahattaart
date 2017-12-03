@@ -1,4 +1,5 @@
 <?php 
+echo "test update to remote";
 if($this->session->userdata('userid'))
 {
 $Obj=new Frontend();
