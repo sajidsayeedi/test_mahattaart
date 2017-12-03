@@ -2,6 +2,7 @@
 
 <?php 
 //echo "Sajid";
+echo "test";
 
 if($this->session->userdata('userid'))
 {
