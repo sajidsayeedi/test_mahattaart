@@ -1,5 +1,10 @@
 <?php 
+<<<<<<< HEAD
 echo "from local change";
+=======
+//echo "Sajid";
+
+>>>>>>> 3a58de90bf2be525a02e1b0a50d11b3120d13b85
 if($this->session->userdata('userid'))
 {
 $Obj=new Frontend();
