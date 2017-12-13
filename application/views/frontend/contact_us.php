@@ -1,5 +1,5 @@
 <?php 
-echo "test update to remote for dev branch";
+//echo "Sajid"; test for live
 if($this->session->userdata('userid'))
 {
 $Obj=new Frontend();
