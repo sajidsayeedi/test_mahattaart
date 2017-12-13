@@ -2,7 +2,7 @@
 
 <?php 
 //echo "Sajid";
-echo "test";
+echo "test ";
 if($this->session->userdata('userid'))
 {
 $Obj=new Frontend();
